@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @axk121
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @axk121 , Atul Kumar
+- 👀 I’m interested in seeing & raising the PR , colloboration & improvednt of our DevOps lifecyscle to make leife esy for end user/stackholders.
+- 🌱 I’m currently learning Insignia & my Team DevOps way of working.
+- 💞️ I’m looking to collaborate on the tools & technology devOps team is using to make it uniform.
+- 📫 How to reach me ..Please ping me if you have any questions regarding on the team channel. 
 
 <!---
 axk121/axk121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
